@@ -1,0 +1,14 @@
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\bin\Debug\net8.0\AutokTxt.exe
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\bin\Debug\net8.0\AutokTxt.deps.json
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\bin\Debug\net8.0\AutokTxt.runtimeconfig.json
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\bin\Debug\net8.0\AutokTxt.dll
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\bin\Debug\net8.0\AutokTxt.pdb
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\AutokTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\AutokTxt.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\AutokTxt.AssemblyInfo.cs
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\AutokTxt.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\AutokTxt.dll
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\refint\AutokTxt.dll
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\AutokTxt.pdb
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\AutokTxt.genruntimeconfig.cache
+C:\Users\Felhasználó\OneDrive - BGSzC Pestszentlőrinci Technikum\12-ES PROGRAMOZÁS\AutokTxt\AutokTxt\obj\Debug\net8.0\ref\AutokTxt.dll
